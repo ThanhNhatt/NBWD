@@ -49,7 +49,7 @@
        width: 170px;
        height: 50vh;
        border-radius: 10px;
-       background-image: url(/images/dao-truongsa.jpg);
+       background-image: url(./images/dao-truongsa.jpg);
        background-repeat: no-repeat;
        background-size: cover;
        box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5);
@@ -67,7 +67,7 @@
         width: 170px;
         height: 24vh;
         border-radius: 10px;
-        background-image: url(/images/dao-hoangsa.jpg);
+        background-image: url(./images/dao-hoangsa.jpg);
         background-repeat: no-repeat;
        background-size: cover;
        box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5);
@@ -79,7 +79,7 @@
         width: 170px;
         height: 24vh;
         border-radius: 10px;
-        background-image: url(/images/dao-phuquoc.png);
+        background-image: url(./images/dao-phuquoc.png);
         background-repeat: no-repeat;
        background-size: cover;
        box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5);
@@ -95,7 +95,7 @@
         border-radius: 10px;
         width: 350px;
         height: 33vh;
-       background-image: url(/images/dao-condao.jpg);
+       background-image: url(./images/dao-condao.jpg);
        background-repeat: no-repeat;
        background-size: cover;
        box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5);
@@ -112,7 +112,7 @@
         border-radius: 10px;
         width: 48%;
         height: 33vh;
-        background-image: url(/images/dao-conco.jpg);
+        background-image: url(./images/dao-conco.jpg);
        background-repeat: no-repeat;
        background-size: cover;
        box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5);
@@ -123,7 +123,7 @@
         border-radius: 10px;
         width: 49%;
         height: 33vh;
-        background-image: url(/images/dao-coto.png);
+        background-image: url(./images/dao-coto.png);
        background-repeat: no-repeat;
        background-size: cover;
        box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5);

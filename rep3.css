@@ -50,7 +50,7 @@
        width: 170px;
        height: 50vh;
        border-radius: 10px;
-       background-image: url(/images/lang-chieu.png);
+       background-image: url(./images/lang-chieu.png);
        background-repeat: no-repeat;
        background-size: cover;
        box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5);
@@ -68,7 +68,7 @@
         width: 170px;
         height: 24vh;
         border-radius: 10px;
-        background-image: url(/images/lang-quat.jpeg);
+        background-image: url(./images/lang-quat.jpeg);
         background-repeat: no-repeat;
        background-size: cover;
        box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5);
@@ -80,7 +80,7 @@
         width: 170px;
         height: 24vh;
         border-radius: 10px;
-        background-image: url(/images/lang-non.jpg);
+        background-image: url(./images/lang-non.jpg);
         background-repeat: no-repeat;
        background-size: cover;
        box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5);
@@ -96,7 +96,7 @@
         border-radius: 10px;
         width: 350px;
         height: 33vh;
-       background-image: url(/images/lang-huong.jpg);
+       background-image: url(./images/lang-huong.jpg);
        background-repeat: no-repeat;
        background-size: cover;
        box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5);
@@ -113,7 +113,7 @@
         border-radius: 10px;
         width: 48%;
         height: 33vh;
-        background-image: url(/images/lang-gom.jpg);
+        background-image: url(./images/lang-gom.jpg);
        background-repeat: no-repeat;
        background-size: cover;
        box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5);
@@ -124,7 +124,7 @@
         border-radius: 10px;
         width: 49%;
         height: 33vh;
-        background-image: url(/images/lang-mam.jpg);
+        background-image: url(./images/lang-mam.jpg);
        background-repeat: no-repeat;
        background-size: cover;
        box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5);
